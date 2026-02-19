@@ -2,7 +2,7 @@
 java basics and DSA practise
 <h3>welcome to my java repository</h3>
 <br>
-<h2>tracking my progress in </h2>
+<h4>tracking my progress in </h4>
 <br>
 1.java basics<br>
 2.control statement<br>
