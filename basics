@@ -1,3 +1,4 @@
+//basic input output operator example
 import java.util.*;
 public class basics{
     public static void main(String[] args){
